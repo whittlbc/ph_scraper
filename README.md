@@ -1,6 +1,6 @@
 # ph_scraper
 
-ProductHunt post url aggregator.
+ProductHunt post url aggregator. Not currently developed as something reusable/distributable, just keeping here for future reference.
 
 # Usage
 
